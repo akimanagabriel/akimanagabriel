@@ -1,4 +1,4 @@
-# About Me:
+# About Me (akimanagabriel):
 I'm a software developer with expertise in JavaScript, CSS, HTML, PHP, Python, Java, and Django. I love creating web applications and building interactive user interfaces using the latest frameworks and technologies.<br><br>Skills:<br>- JavaScript (React, Vue.js, Angular)<br>- CSS & HTML<br>- PHP (Laravel)<br>- Python (Django, Flask)<br>- Java <br>- Golang(Gin)
 
 
