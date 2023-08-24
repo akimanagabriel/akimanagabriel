@@ -15,8 +15,6 @@ I'm a software developer with expertise in JavaScript, CSS, HTML, PHP, Python, J
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akimanagabriel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akimanagabriel&limit=5&theme=dark&combine_all_yearly_contributions=true)
